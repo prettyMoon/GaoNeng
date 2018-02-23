@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\menu\\homepage_actionbar.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\menu\\homepage_actionbar.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\menu\\homepage_actionbar.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\menu\\homepage_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\menu\\homepage_actionbar.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\menu\\homepage_actionbar.xml"
+    }
+]

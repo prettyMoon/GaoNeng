@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_dialog_enter_anim.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\umeng_fb_dialog_enter_anim.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_dialog_exit_anim.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\umeng_fb_dialog_exit_anim.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_out.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_new_msg_notify_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_in.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_new_msg_notify_slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_dialog_enter_anim.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\umeng_fb_dialog_enter_anim.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_dialog_exit_anim.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\umeng_fb_dialog_exit_anim.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_in.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_alpha_fade_in.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_in.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_end.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\activity_end.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_out.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_menu_out.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_out.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_in.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_dialog_enter_anim.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\umeng_fb_dialog_enter_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_audio_play_anim.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\umeng_fb_audio_play_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_out.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_alpha_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_out.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_new_msg_notify_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_out.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_end.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\activity_end.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gif_orange.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\gif_orange.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_null.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\anim_null.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_out.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_menu_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_in.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_menu_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_out.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_alpha_fade_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_null.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\anim_null.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_null.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\anim_null.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_audio_play_anim.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\umeng_fb_audio_play_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_in.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_new_msg_notify_slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_in.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_menu_in.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_in.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_dialog_exit_anim.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\umeng_fb_dialog_exit_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_in.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_out.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_out.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_new_msg_notify_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_in.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_menu_in.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_in.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_alpha_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\activity_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_end.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\activity_end.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_out.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_alpha_fade_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_out.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gif_orange.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\gif_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_in.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_alpha_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\activity_open.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_audio_play_anim.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\umeng_fb_audio_play_anim.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_out.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gif_orange.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\gif_orange.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_in.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_out.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_in.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\activity_open.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_in.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\aliwx_new_msg_notify_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_out.xml",
+        "source": "C:\\Users\\DELL\\Desktop\\GaoNeng\\app\\src\\main\\res\\anim\\aliwx_menu_out.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\release\\color\\aliwx_tab_text_color.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\color\\aliwx_tab_text_color.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\color\\color_send_button.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\color\\color_send_button.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\color\\click_text_bg.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\color\\click_text_bg.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\release\\color\\color_send_button.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\color\\color_send_button.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\release\\color\\click_text_bg.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\color\\click_text_bg.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+    },
+    {
+        "merged": "E:\\GaoNeng\\app\\build\\intermediates\\res\\merged\\release\\color\\aliwx_tab_text_color.xml",
+        "source": "E:\\GaoNeng\\app\\src\\main\\res\\color\\aliwx_tab_text_color.xml"
+    },
+    {
+        "merged": "E:\\Chengguo444\\app\\build\\intermediates\\res\\merged\\release\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
+        "source": "E:\\Chengguo444\\app\\src\\main\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+    }
+]
